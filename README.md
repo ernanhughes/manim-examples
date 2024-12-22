@@ -1,2 +1,4 @@
 # manim-examples
-Some xample sof the Mainim
+Some examples of the Manim
+
+

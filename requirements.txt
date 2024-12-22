@@ -1,0 +1,4 @@
+ipykernel
+manim  
+manim[notebooks]
+
