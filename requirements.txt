@@ -1,4 +1,7 @@
 ipykernel
 manim  
 manim[notebooks]
+manim_voiceover
+manim-voiceover[azure]
+pygments
 
